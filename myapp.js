@@ -1,5 +1,5 @@
 const manifestUri =
-    'https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd';
+    'https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd';
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
