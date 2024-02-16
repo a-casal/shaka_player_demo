@@ -1,5 +1,5 @@
 const manifestUri =
-    'https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd';
+    'https://live-dev-cdn7-tve.cdn.viaplay.tv/vp/kanal6/kanal6.isml/index.mpd';
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
