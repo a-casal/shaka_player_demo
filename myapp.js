@@ -1,5 +1,6 @@
 const manifestUri =
-    'https://live-dev-cdn7-tve.cdn.viaplay.tv/vp/kanal6/kanal6.isml/index.mpd';
+//    'https://live-dev-cdn7-tve.cdn.viaplay.tv/vp/kanal6/kanal6.isml/index.mpd';
+      'https://livesim2.dashif.org/livesim2/testpic_2s/Manifest.mpd';
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
