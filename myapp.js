@@ -1,6 +1,6 @@
 const manifestUri =
 //    'https://live-dev-cdn7-tve.cdn.viaplay.tv/vp/kanal6/kanal6.isml/index.mpd';
-      'https://d10gktn8v7end7.cloudfront.net/out/v1/6ee19df3afa24fe190a8ae16c2c88560/index.mpd';
+      'https://rdmedia.bbc.co.uk/testcard/vod/manifests/avc-full.mpd';
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
