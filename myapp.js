@@ -38,6 +38,8 @@ async function initPlayer() {
     // onError is executed if the asynchronous load fails.
     onError(e);
   }
+
+  video.play();
 }
 
 function onErrorEvent(event) {
