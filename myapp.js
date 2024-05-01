@@ -1,8 +1,8 @@
 const manifestUri =
-//    'https://live-dev-cdn7-tve.cdn.viaplay.tv/vp/kanal6/kanal6.isml/index.mpd';
+    'https://live-dev-cdn7-tve.cdn.viaplay.tv/vp/kanal6/kanal6.isml/index.mpd';
 //      'https://rdmedia.bbc.co.uk/testcard/vod/manifests/avc-full.mpd';
 //      'https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd';
-        'https://cph-msl.akamaized.net/dash/live/2003285/test/manifest.mpd';
+//        'https://cph-msl.akamaized.net/dash/live/2003285/test/manifest.mpd';
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
