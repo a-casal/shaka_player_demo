@@ -38,6 +38,7 @@ async function initPlayer() {
     onError(e);
   }
 
+  console.log(player.getNonDefaultConfiguration());
   video.play();
 }
 
